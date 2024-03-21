@@ -7,7 +7,6 @@
 @interface SBHomeScreenBackdropView : UIView
 @end
 
-
 %hook SBIconImageView
 
 -(void)didMoveToWindow {
